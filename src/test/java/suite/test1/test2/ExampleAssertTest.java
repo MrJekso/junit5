@@ -1,10 +1,11 @@
+package suite.test1.test2;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class ExampleAssertTest {
 

@@ -1,7 +1,10 @@
+package suite.test1;
+
 import org.junit.jupiter.api.*;
 
 
 @DisplayName("Калькулятор")
+@Tag("calc")
 public class CalculatorTest {
 
     @BeforeAll
